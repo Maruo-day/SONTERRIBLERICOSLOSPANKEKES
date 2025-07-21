@@ -1,14 +1,13 @@
-logo.png
+![logo](pankeke.png)
+# Nombre de la empresa:
 
-
-# Nombre de la empresa: Pancake's dream
-esponjosos y dulces para el corazon
+ Pancake's dream
 
 ## Tema
-Sitio web sobre recetas para pankekes y postres varios
+ Sitio web sobre postres asistentes
 
 ## Descripcion
-Nuestra empresa se dedica a recomendar y enseñar sobre distintas recetas deliciosas de postres pero sobre todo de nuestra especialidad, los pankekes :3c
+Dulce Compañía es una pastelería creativa donde cada postre es creado con el proposito de ser una mascota-asistente adorable. No son comestibles, sino pequeños compañeros diseñados para brindar apoyo emocional y hacer más dulce tu momento. Sabores que reconfortan, mascotas que acompañan. 🐾🧁
 
 ### Autor: (3H) Maria Jesus Caranza
 
